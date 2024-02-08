@@ -296,5 +296,17 @@
         "place of birth": "Liverpool, England",
         "band name": "The Beatles",
         "members": "Paul, John, George"
+ },
+    "Scooby Doo": {
+        "full name": "Scoobert Doobert",
+        "other names": [
+            "Meddling Mutt",
+            "Scoob"
+        ],
+        "wikipedia": "https://en.wikipedia.org/wiki/Scooby-Doo",
+        "born": 1969,
+        "place of birth": "Coolsville",
+        "band name": "Meddling Kids",
+        "members": "Fred, Daphne, Velma, Shaggy"
     }
 }
